@@ -1,0 +1,17 @@
+textarea {
+    min-height: 200px;
+}
+#email-view {
+    border: solid 3px;
+    border-radius: 4px;
+    border-color: lightgray;
+    height: 400px;
+    padding: 8px;
+}
+#parent_div {
+    cursor: pointer;
+}
+#compose-label {
+    font-size: 12px;
+    color: red;
+}
